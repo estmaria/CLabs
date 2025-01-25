@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1732210959 source:c:\users\mestb\onedrive\escritorio\class\programming languages\c assignments\htoi\main.c
+	<stdio.h>
+	<stdlib.h>
+	"htoi.h"
+
+1732210980 c:\users\mestb\onedrive\escritorio\class\programming languages\c assignments\htoi\htoi.h
+	<math.h>
+
+1732211501 source:c:\users\mestb\onedrive\escritorio\class\programming languages\c assignments\maria_esteban_c2\htoi\main.c
+	<stdio.h>
+	<stdlib.h>
+	"htoi.h"
+
+1732211501 c:\users\mestb\onedrive\escritorio\class\programming languages\c assignments\maria_esteban_c2\htoi\htoi.h
+	<math.h>
+
